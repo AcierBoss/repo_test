@@ -1,1 +1,6 @@
-print("I'm a best of developper in python soon")
+def pyramide(n):
+    for i in range(n):
+        print("*"*i)
+
+
+pyramide(15)
